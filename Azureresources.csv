@@ -1,0 +1,31 @@
+NAME,TYPE,LOCATION
+ASP-napierdissertation-8daf,App Service plan,UK South
+ASP-napierdissertation-8eef,App Service plan,UK South
+ASP-napierdissertation-a66a,App Service plan,UK South
+CECAPPSrver,Virtual machine,UK South
+CECAPPSrver-ip,Public IP address,UK South
+CECAPPSrver-nsg,Network security group,UK South
+cecappsrver719,Network interface,UK South
+CECAPPSrver_disk1_23127946a073430f9f07d8d471b02ee4,Disk,UK South
+CECDBSrvr,Virtual machine,UK South
+CECDBSrvr-ip,Public IP address,UK South
+CECDBSrvr-nsg,Network security group,UK South
+cecdbsrvr666,Network interface,UK South
+CECDBSrvr_disk1_337850ac67194e5eb690d3e95bb0bb7b,Disk,UK South
+CECDBSrvr_key,SSH key,UK South
+CECLogicApp,Logic app,UK South
+mydessertation-accountdb,Azure Cosmos DB API for MongoDB account,UK South
+mydessertation-carddb,Azure Cosmos DB API for MongoDB account,UK South
+mydessertation-creditscoredb,Azure Cosmos DB API for MongoDB account,UK South
+mydessertation-customerdb,Azure Cosmos DB API for MongoDB account,UK South
+mydessertation-notificationdb,Azure Cosmos DB API for MongoDB account,UK South
+mydissertation-accountms,Function App,UK South
+mydissertation-accountms,Application Insights,UK South
+mydissertation-apim,API Management service,UK South
+mydissertation-cardms,Function App,UK South
+mydissertation-cardms,Application Insights,UK South
+mydissertation-customerms,Function App,UK South
+mydissertation-customerms,Application Insights,UK South
+mydissertation-notificationhub,Event Hubs Namespace,UK South
+napier_dissertation-vnet,Virtual network,UK South
+CECAPPSrvr_key,SSH key,UK South
